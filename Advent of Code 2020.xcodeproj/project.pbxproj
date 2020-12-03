@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C6F8A4A32578DFF500966171 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8A4A22578DFF500966171 /* main.swift */; };
+		C6F8A4AD2578E58F00966171 /* Day 1 Part 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8A4AC2578E58F00966171 /* Day 1 Part 2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,10 @@
 /* Begin PBXFileReference section */
 		C6F8A49F2578DFF500966171 /* Advent of Code 2020 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Advent of Code 2020"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6F8A4A22578DFF500966171 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		C6F8A4AA2578E01800966171 /* Day 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C6F8A4AC2578E58F00966171 /* Day 1 Part 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 1 Part 2.swift"; sourceTree = "<group>"; };
+		C6F8A4B12578E6CF00966171 /* Day 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C6F8A4B32578F59A00966171 /* Day 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 3.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +63,10 @@
 			isa = PBXGroup;
 			children = (
 				C6F8A4A22578DFF500966171 /* main.swift */,
+				C6F8A4AA2578E01800966171 /* Day 1.playground */,
+				C6F8A4AC2578E58F00966171 /* Day 1 Part 2.swift */,
+				C6F8A4B12578E6CF00966171 /* Day 2.playground */,
+				C6F8A4B32578F59A00966171 /* Day 3.playground */,
 			);
 			path = "Advent of Code 2020";
 			sourceTree = "<group>";
@@ -120,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C6F8A4A32578DFF500966171 /* main.swift in Sources */,
+				C6F8A4AD2578E58F00966171 /* Day 1 Part 2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
