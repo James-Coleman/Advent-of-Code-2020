@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C6274795257A2B17004BC3B5 /* Day 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C6F8A49F2578DFF500966171 /* Advent of Code 2020 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Advent of Code 2020"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6F8A4A22578DFF500966171 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C6F8A4AA2578E01800966171 /* Day 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -67,6 +68,7 @@
 				C6F8A4AC2578E58F00966171 /* Day 1 Part 2.swift */,
 				C6F8A4B12578E6CF00966171 /* Day 2.playground */,
 				C6F8A4B32578F59A00966171 /* Day 3.playground */,
+				C6274795257A2B17004BC3B5 /* Day 4.playground */,
 			);
 			path = "Advent of Code 2020";
 			sourceTree = "<group>";
