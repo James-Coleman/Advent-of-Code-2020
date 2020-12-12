@@ -10,3 +10,4 @@ import Foundation
 print("Hello, World!")
 
 //day1Part2() // 193416912 (correct)
+day8Part2() // 1877 (correct)

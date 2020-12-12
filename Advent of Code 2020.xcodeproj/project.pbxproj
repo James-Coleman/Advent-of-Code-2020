@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C60961E325852F4700F66BC8 /* Day 8 Part 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60961E225852F4700F66BC8 /* Day 8 Part 2.swift */; };
 		C6F8A4A32578DFF500966171 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8A4A22578DFF500966171 /* main.swift */; };
 		C6F8A4AD2578E58F00966171 /* Day 1 Part 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8A4AC2578E58F00966171 /* Day 1 Part 2.swift */; };
 /* End PBXBuildFile section */
@@ -24,9 +25,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C60961DF2584C40400F66BC8 /* Day 8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 8.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C60961E225852F4700F66BC8 /* Day 8 Part 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Day 8 Part 2.swift"; sourceTree = "<group>"; };
+		C60961E62585547F00F66BC8 /* Day 9.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 9.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C6274795257A2B17004BC3B5 /* Day 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 4.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C6F69DB6257D4732006087B3 /* Day 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 5.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C6F69DBA257D7822006087B3 /* Day 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 6.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		C6F69DBE257E665C006087B3 /* Day 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 7.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		C6F8A49F2578DFF500966171 /* Advent of Code 2020 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Advent of Code 2020"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6F8A4A22578DFF500966171 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		C6F8A4AA2578E01800966171 /* Day 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Day 1.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -73,6 +78,10 @@
 				C6274795257A2B17004BC3B5 /* Day 4.playground */,
 				C6F69DB6257D4732006087B3 /* Day 5.playground */,
 				C6F69DBA257D7822006087B3 /* Day 6.playground */,
+				C6F69DBE257E665C006087B3 /* Day 7.playground */,
+				C60961DF2584C40400F66BC8 /* Day 8.playground */,
+				C60961E225852F4700F66BC8 /* Day 8 Part 2.swift */,
+				C60961E62585547F00F66BC8 /* Day 9.playground */,
 			);
 			path = "Advent of Code 2020";
 			sourceTree = "<group>";
@@ -136,6 +145,7 @@
 			files = (
 				C6F8A4A32578DFF500966171 /* main.swift in Sources */,
 				C6F8A4AD2578E58F00966171 /* Day 1 Part 2.swift in Sources */,
+				C60961E325852F4700F66BC8 /* Day 8 Part 2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
